@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Shawon Reza</h1>
-###  Shawon Reza
-#### I am Web dovelopper
+
 
 
 <h3 align="center">I am currently in the learning stage of web development. I have a basic knowledge of the following programming languages and technologies:</h3>
