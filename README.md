@@ -56,7 +56,7 @@ Green University of Bangladesh
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawon-reza&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
