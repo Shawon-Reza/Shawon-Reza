@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shawon Reza 👋</h1>
 
-<h3 align="center">Jr. Frontend Developer | React & Next.js Specialist</h3>
+<h3 align="center">Jr. Full Stack Developer | React & Next.js Specialist</h3>
 
 <p align="center">
   Passionate about crafting high-performance, responsive web applications with modern JavaScript ecosystems.
