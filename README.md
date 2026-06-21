@@ -74,13 +74,13 @@ I also provide professional web development services on Fiverr:
 
 <p align="left">
   <a href="https://www.fiverr.com/s/KePDRpb" target="_blank">
-    🚀 React.js / Next.js Frontend Development
+   Landing page website Development
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.fiverr.com/s/gDe322a" target="_blank">
-    💻 Full Stack Web Application Development
+    Custom Web App Development
   </a>
 </p>
 
