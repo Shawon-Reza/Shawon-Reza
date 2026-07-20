@@ -68,20 +68,6 @@ Green University of Bangladesh
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon-reza&theme=radical" alt="Streak Stats" />
 </p>
 
-### Fiverr Services
 
-I also provide professional web development services on Fiverr:
-
-<p align="left">
-  <a href="https://www.fiverr.com/s/KePDRpb" target="_blank">
-   Landing page website Development
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.fiverr.com/s/gDe322a" target="_blank">
-    Custom Web App Development
-  </a>
-</p>
 
 ---
