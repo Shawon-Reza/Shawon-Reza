@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shawon Reza 👋</h1>
+<h1 align="center">Hi, I'm Shawon Reza </h1>
 
 <h3 align="center">Jr. Full Stack Developer | React & Next.js Specialist</h3>
 
